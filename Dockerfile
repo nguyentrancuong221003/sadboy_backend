@@ -30,7 +30,11 @@ COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
 COPY . .
 
 # Tạo folder cần thiết
-RUN mkdir -p database/factories database/seeders storage/framework/cache/data \
+RUN mkdir -p \
+    database/factories \
+    database/seeders \
+    storage/framework/cache/data \
+    bootstrap/cache \
     && touch database/factories/.gitkeep
 
 # Set quyền
