@@ -1,0 +1,53 @@
+<?php
+return [
+    'required' => ':attribute không được phép để trống',
+    'email' => ':attribute không hợp lệ',
+    'date' => ':attribute phải làm một ngày',
+    'integer' => ':attribute phải làm một số',
+    'numeric' => ':attribute phải làm một số',
+    'string' => ':attribute phải là một chuỗi',
+    'min' => [
+        'string'  => ':attribute phải có ít nhất :min ký tự.',
+        'numeric' => ':attribute phải lớn hơn hoặc bằng :min.',
+        'array'   => ':attribute phải có ít nhất :min phần tử.',
+        'file'    => ':attribute phải có dung lượng tối thiểu :min KB.',
+    ],
+    'file' => ':attribute bắt buộc phải là một file',
+    'image' => ':attribute không phải là một file ảnh',
+    'max' => [
+        'string'  => ':attribute tối đa có :max ký tự.',
+        'numeric' => ':attribute phải lớn hơn hoặc bằng :max.',
+        'array'   => ':attribute tối đa có :max phần tử.',
+        'file'    => ':attribute dung lượng tối đa là :max KB.',
+    ],
+    'regex' => ':attribute không phù hợp.',
+    'unique' => ':attribute đã tồn tại trong hệ thống',
+    'password' => [
+        'min' => ':attribute phải có ít nhất :min ký tự.',
+        'letters' => ':attribute phải chứa ít nhất một chữ cái.',
+        'mixed' => ':attribute phải chứa cả chữ hoa và chữ thường.',
+        'numbers' => ':attribute phải chứa ít nhất một chữ số.',
+        'symbols' => ':attribute phải chứa ít nhất một ký tự đặc biệt.',
+
+    ],
+    'attributes' => [
+        'code' => 'Mã nhân viên',
+        'name' => 'Tên nhân viên',
+        'gender' => 'Giới tính',
+        'date_birth' => 'Ngày sinh',
+        'phone' => 'Số điện thoại',
+        'email' => 'Email nhân viên',
+        'address' => 'Địa chỉ',
+        'diploma' => 'Bằng nhân viên',
+        'status' => 'Tình trạng',
+        'position_id' => 'Chức vụ',
+        'department_id' => 'Phòng bạn',
+        'date_start_work' => 'Ngày bắt đầu làm việc',
+        'contrast_id' => 'Hợp đồng',
+        'work_shift_id' => 'Ca làm việc',
+        'salary' => 'Lương',
+        'grant_id' => 'Trợ cấp',
+        'img' => 'Ảnh nhân viên',
+        'password' => 'Mât khẩu'
+    ],
+];

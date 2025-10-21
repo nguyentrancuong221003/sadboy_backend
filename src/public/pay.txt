@@ -1,0 +1,15 @@
+{"gateway":"MBBank",
+"transactionDate":"2025-10-10 21:23:35",
+"accountNumber":"0988870434",
+"subAccount":"VQRQAEQDZ1414",
+"code":"DH102969",
+"content":"QAEQDZ1414 SEPAY4660 1 DH102969",
+"transferType":"in",
+"description":"BankAPINotify QAEQDZ1414 SEPAY4660 1 DH102969",
+"transferAmount":12345,
+"referenceCode":"FT25283059093321",
+"accumulated":0,
+"id":25870142}
+
+
+QAEQDZ1414  SEPAY4660 1  LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9LbIcvj5yUgM9B5vI5lDrRJjUB5vI5lDrRJjUdcaYfHcwjlMdGGcu0wdpRCxgMcPBlbOFCg9oSuWKM4BMAGGnDPOruQDwQxKwkoHWio2hpMmcNebws2bWlsZTrayYnjfacgsSTjrBg1gwStxuEa6GdvxbjBcz39nyuWoYDF1oqYSaZGHaIZ9FCMRRzBPXhlun5qJHWjRML75izSFFX5auS31d1t15nnUc3TfKvGL9gtVQbcnehmPnCyc3gcUkBoyPQFstBCWKLUh4JVouTSJ7sdUrrWrWqyYyU9wu1k2rModeTPISd6Kz5ia1U3DDZKtBpfdgupAJTWImzyjqZUtrt8JwSPTRX07vgY07OMwlw6Z4n6Z7VNqfPyG4FQx9UD605ktujOPqu10qZ3dCiG8v3NZh96JxOPfNMCZiK2YpjIxMKsZV
